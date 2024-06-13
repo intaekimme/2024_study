@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: src/ObjectOrientedProgramming.scala
+    visible: true
+    placeholders:
+      - offset: 59
+        length: 35
+        placeholder_text: /*Create a NonEmpty contatining 7*/
+        initial_state:
+          length: 35
+          offset: 59
+        initialized_from_dependency: false
+        encrypted_possible_answer: phEzg8qK4j+vGbNGBcFCv+faFZgHBsW7h4QhU3gg054=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: scala_type_hierarchy.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: src/IntSet.scala
+    visible: true
+    learner_created: false
+  - name: src/Empty.scala
+    visible: true
+    learner_created: false
+  - name: src/NonEmpty.scala
+    visible: true
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=OOP+/+Object+Oriented+Programming
+status: Unchecked
+record: -1

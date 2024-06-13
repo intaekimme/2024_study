@@ -1,0 +1,15 @@
+type: theory
+files:
+  - name: src/ClassesVsCaseClasses.scala
+    visible: true
+    learner_created: false
+  - name: src/Note.scala
+    visible: true
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Classes+vs+Case+Classes+/+Case+Classes+Encoding
+status: Unchecked
+record: -1
+post_submission_on_open: true

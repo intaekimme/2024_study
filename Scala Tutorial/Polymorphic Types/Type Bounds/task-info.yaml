@@ -1,0 +1,32 @@
+type: edu
+files:
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+  - name: src/TypeBounds.scala
+    visible: true
+    placeholders:
+      - offset: 150
+        length: 54
+        placeholder_text: /*insert a correct lower bound Type to include Zebra*/
+        initial_state:
+          length: 54
+          offset: 150
+        initialized_from_dependency: false
+        encrypted_possible_answer: mKWaPdbaIJxjomizhe8hkQ==
+        selected: false
+        status: Unchecked
+      - offset: 208
+        length: 48
+        placeholder_text: /*insert an upper bound type to include Animal*/
+        initial_state:
+          length: 48
+          offset: 208
+        initialized_from_dependency: false
+        encrypted_possible_answer: QoGm00HdCM5kF5Iw8Gj66Q==
+        selected: false
+        status: Unchecked
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Polymorphic+Types+/+Type+Bounds
+status: Unchecked
+record: -1

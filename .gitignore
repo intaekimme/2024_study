@@ -1,0 +1,7 @@
+*.pem
+
+ec2_info
+
+core/
+
+*.zip

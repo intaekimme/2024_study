@@ -1,0 +1,58 @@
+type: edu
+files:
+  - name: src/BankAccount.scala
+    visible: true
+    learner_created: false
+  - name: src/Note.scala
+    visible: true
+    learner_created: false
+  - name: src/ClassesVsCaseClasses.scala
+    visible: true
+    placeholders:
+      - offset: 51
+        length: 33
+        placeholder_text: /*create a new BankAccount here*/
+        initial_state:
+          length: 33
+          offset: 51
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3mt++Urfr5eL1zCiG2sseg==
+        selected: false
+        status: Unchecked
+      - offset: 106
+        length: 33
+        placeholder_text: /*create a new BankAccount here*/
+        initial_state:
+          length: 33
+          offset: 106
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3mt++Urfr5eL1zCiG2sseg==
+        selected: false
+        status: Unchecked
+      - offset: 156
+        length: 53
+        placeholder_text: /*create a new c3 note here with a quarter duration*/
+        initial_state:
+          length: 53
+          offset: 156
+        initialized_from_dependency: false
+        encrypted_possible_answer: /xnNPHbaAb2XQF0ajzVJ7lO77nL0NasC5LxXuJC7c9I=
+        selected: false
+        status: Unchecked
+      - offset: 225
+        length: 53
+        placeholder_text: /*create a new c3 note here with a quarter duration*/
+        initial_state:
+          length: 53
+          offset: 225
+        initialized_from_dependency: false
+        encrypted_possible_answer: /xnNPHbaAb2XQF0ajzVJ7lO77nL0NasC5LxXuJC7c9I=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Classes+vs+Case+Classes+/+Equality
+status: Unchecked
+record: -1

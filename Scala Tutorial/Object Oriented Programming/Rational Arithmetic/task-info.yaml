@@ -1,0 +1,34 @@
+type: edu
+files:
+  - name: src/RationalArithmetic.scala
+    visible: true
+    placeholders:
+      - offset: 487
+        length: 80
+        placeholder_text: /*create a Rational with appropriate expressions for numerator
+          and denomenator*/
+        initial_state:
+          length: 80
+          offset: 487
+        initialized_from_dependency: false
+        encrypted_possible_answer: TyR1z1EOij+7K52ITyVuhmPgpybNS/yEAa8SvsLe5SntmwLxIggW3wlCVZ+WbChyz6rTN0W4EUPuczMCWrThWFFTqXc15HHYay4lVHHWzPs=
+        selected: false
+        status: Unchecked
+      - offset: 600
+        length: 80
+        placeholder_text: /*create a Rational with appropriate expressions for numerator
+          and denomenator*/
+        initial_state:
+          length: 80
+          offset: 600
+        initialized_from_dependency: false
+        encrypted_possible_answer: TyR1z1EOij+7K52ITyVuhmPgpybNS/yEAa8SvsLe5Sm6yZCaf4rxm5DFKNS7ZUqp5UJOhovCOKZ2Eppic2936e+5l814vs5B93FdAUWzVoo=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=OOP+/+Rational+Arithmetic
+status: Unchecked
+record: -1

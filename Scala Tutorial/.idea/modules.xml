@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Case Classes Encoding.iml" filepath="$PROJECT_DIR$/.idea/modules/Case Classes Encoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Common Operations on Lists.iml" filepath="$PROJECT_DIR$/.idea/modules/Common Operations on Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Common Types.iml" filepath="$PROJECT_DIR$/.idea/modules/Common Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Computing the Square Root of a Value.iml" filepath="$PROJECT_DIR$/.idea/modules/Computing the Square Root of a Value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Conditional Expressions.iml" filepath="$PROJECT_DIR$/.idea/modules/Conditional Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Course View.iml" filepath="$PROJECT_DIR$/.idea/modules/Course View.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Covariance.iml" filepath="$PROJECT_DIR$/.idea/modules/Covariance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Creation and Manipulation.iml" filepath="$PROJECT_DIR$/.idea/modules/Creation and Manipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Defining Alternatives With Sealed Traits.iml" filepath="$PROJECT_DIR$/.idea/modules/Defining Alternatives With Sealed Traits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Editor.iml" filepath="$PROJECT_DIR$/.idea/modules/Editor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Enumerations.iml" filepath="$PROJECT_DIR$/.idea/modules/Enumerations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Equality.iml" filepath="$PROJECT_DIR$/.idea/modules/Equality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Error Handling.iml" filepath="$PROJECT_DIR$/.idea/modules/Error Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/First Steps.iml" filepath="$PROJECT_DIR$/.idea/modules/First Steps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Functions.iml" filepath="$PROJECT_DIR$/.idea/modules/Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Higher Order Functions.iml" filepath="$PROJECT_DIR$/.idea/modules/Higher Order Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Imperative Loops.iml" filepath="$PROJECT_DIR$/.idea/modules/Imperative Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Introduction.iml" filepath="$PROJECT_DIR$/.idea/modules/Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lazy Evaluation.iml" filepath="$PROJECT_DIR$/.idea/modules/Lazy Evaluation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lazy Lists.iml" filepath="$PROJECT_DIR$/.idea/modules/Lazy Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lexical Scoping.iml" filepath="$PROJECT_DIR$/.idea/modules/Lexical Scoping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/List.iml" filepath="$PROJECT_DIR$/.idea/modules/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Method Calls.iml" filepath="$PROJECT_DIR$/.idea/modules/Method Calls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Methods Parameters.iml" filepath="$PROJECT_DIR$/.idea/modules/Methods Parameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Multiple Parameters.iml" filepath="$PROJECT_DIR$/.idea/modules/Multiple Parameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Naming Things.iml" filepath="$PROJECT_DIR$/.idea/modules/Naming Things.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Naming Things 2.iml" filepath="$PROJECT_DIR$/.idea/modules/Naming Things 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nested Functions.iml" filepath="$PROJECT_DIR$/.idea/modules/Nested Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Object Oriented Programming.iml" filepath="$PROJECT_DIR$/.idea/modules/Object Oriented Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Operators.iml" filepath="$PROJECT_DIR$/.idea/modules/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Polymorphic Types.iml" filepath="$PROJECT_DIR$/.idea/modules/Polymorphic Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Primitive Expressions.iml" filepath="$PROJECT_DIR$/.idea/modules/Primitive Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rational Arithmetic.iml" filepath="$PROJECT_DIR$/.idea/modules/Rational Arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Recursive Function Application.iml" filepath="$PROJECT_DIR$/.idea/modules/Recursive Function Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Scala-Tutorial.iml" filepath="$PROJECT_DIR$/.idea/modules/Scala-Tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Scala-Tutorial-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Scala-Tutorial-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stateful Objects.iml" filepath="$PROJECT_DIR$/.idea/modules/Stateful Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/String Interpolation.iml" filepath="$PROJECT_DIR$/.idea/modules/String Interpolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Task Description.iml" filepath="$PROJECT_DIR$/.idea/modules/Task Description.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Traits.iml" filepath="$PROJECT_DIR$/.idea/modules/Traits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tuples.iml" filepath="$PROJECT_DIR$/.idea/modules/Tuples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Type Bounds.iml" filepath="$PROJECT_DIR$/.idea/modules/Type Bounds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Type Classes.iml" filepath="$PROJECT_DIR$/.idea/modules/Type Classes.iml" />
+    </modules>
+  </component>
+</project>

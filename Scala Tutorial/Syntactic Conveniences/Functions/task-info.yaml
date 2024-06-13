@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: test/TestSpec.scala
+    visible: false
+    learner_created: false
+  - name: src/SyntacticConveniences.scala
+    visible: true
+    placeholders:
+      - offset: 159
+        length: 25
+        placeholder_text: /*complete the function*/
+        initial_state:
+          length: 25
+          offset: 159
+        initialized_from_dependency: false
+        encrypted_possible_answer: x7QXUC9gZhJ4KtpwqCe7DA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Syntactic+Conveniences+/+Functions
+status: Unchecked
+record: -1

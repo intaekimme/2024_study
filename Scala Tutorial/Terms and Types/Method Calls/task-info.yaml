@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: src/TermsAndTypes.scala
+    visible: true
+    placeholders:
+      - offset: 80
+        length: 11
+        placeholder_text: //Invoke a method here making all of the letters uppercase
+        initial_state:
+          length: 58
+          offset: 80
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7x89m+DAv3lp2unqZnQDtw==
+        selected: true
+        status: Solved
+      - offset: 132
+        length: 3
+        placeholder_text: //invoke a method here to return an absolute value of the number
+        initial_state:
+          length: 64
+          offset: 179
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8pSTf9smc9SAT+aDNNwR6g==
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Terms+and+Types+/+Method+Calls
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 13 Jun 2024 15:31:46 UTC"
+record: -1

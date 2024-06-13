@@ -1,0 +1,52 @@
+type: edu
+files:
+  - name: src/TermsAndTypes.scala
+    visible: true
+    placeholders:
+      - offset: 68
+        length: 36
+        placeholder_text: //invoke the toHexString method here
+        initial_state:
+          length: 36
+          offset: 68
+        initialized_from_dependency: false
+        encrypted_possible_answer: 0aKVkLtClUYEYK6/R3bv9g==
+        selected: false
+        status: Unchecked
+      - offset: 160
+        length: 35
+        placeholder_text: /*invoke the contains method here*/
+        initial_state:
+          length: 35
+          offset: 160
+        initialized_from_dependency: false
+        encrypted_possible_answer: lkdolGbE8XEpPwG0ZRekXA==
+        selected: false
+        status: Unchecked
+      - offset: 245
+        length: 31
+        placeholder_text: /*invoke the drop method here*/
+        initial_state:
+          length: 31
+          offset: 245
+        initialized_from_dependency: false
+        encrypted_possible_answer: NTjeIf5943NSfA4BaDYFNw==
+        selected: false
+        status: Unchecked
+      - offset: 326
+        length: 31
+        placeholder_text: /*invoke the take method here*/
+        initial_state:
+          length: 31
+          offset: 326
+        initialized_from_dependency: false
+        encrypted_possible_answer: Wo9xGNvZJDQnmj1XPs7i9Q==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Terms+and+Types+/+Common+Types
+status: Unchecked
+record: -1

@@ -1,0 +1,52 @@
+type: edu
+files:
+  - name: src/HigherOrderFunctions.scala
+    visible: true
+    placeholders:
+      - offset: 50
+        length: 56
+        placeholder_text: /*put here an appropriate type of an f input parameter*/
+        initial_state:
+          length: 56
+          offset: 50
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7lNeNQvZWlk0Zv+0kEvLNg==
+        selected: false
+        status: Unchecked
+      - offset: 110
+        length: 54
+        placeholder_text: /*put here an appropriate type of an f output result*/
+        initial_state:
+          length: 54
+          offset: 110
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7lNeNQvZWlk0Zv+0kEvLNg==
+        selected: false
+        status: Unchecked
+      - offset: 272
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 272
+        initialized_from_dependency: false
+        encrypted_possible_answer: oa+nVSRiKi7L3SNrfCrSCA==
+        selected: false
+        status: Unchecked
+      - offset: 315
+        length: 45
+        placeholder_text: /*here you need to insert initial acc value*/
+        initial_state:
+          length: 45
+          offset: 315
+        initialized_from_dependency: false
+        encrypted_possible_answer: /gxBgZ9DkPurQeAhOZGqYg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Higher+Order+Functions
+status: Unchecked
+record: -1

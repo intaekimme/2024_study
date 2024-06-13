@@ -1,0 +1,32 @@
+type: edu
+files:
+  - name: src/LexicalScopes.scala
+    visible: true
+    placeholders:
+      - offset: 185
+        length: 50
+        placeholder_text: /*insert the x variable from the Bar object here*/
+        initial_state:
+          length: 50
+          offset: 185
+        initialized_from_dependency: false
+        encrypted_possible_answer: tumYzgMT9c+iD24LGJ1bFg==
+        selected: false
+        status: Unchecked
+      - offset: 238
+        length: 59
+        placeholder_text: /*here you need to insert the x value from the Foo object*/
+        initial_state:
+          length: 59
+          offset: 238
+        initialized_from_dependency: false
+        encrypted_possible_answer: +lmZ3yvWx63T+/wRKj2UbA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Lexical+Scopes+/+Lexical+Scoping
+status: Unchecked
+record: -1

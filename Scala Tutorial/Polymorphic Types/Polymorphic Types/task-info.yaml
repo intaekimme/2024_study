@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: src/PolymorphicTypes.scala
+    visible: true
+    placeholders:
+      - offset: 94
+        length: 47
+        placeholder_text: /*insert what we should return in case of Nil*/
+        initial_state:
+          length: 47
+          offset: 94
+        initialized_from_dependency: false
+        encrypted_possible_answer: i7w+f2Kv3evAy8vez+mEpg==
+        selected: false
+        status: Unchecked
+      - offset: 161
+        length: 56
+        placeholder_text: /*insert what we should add for an element of the list*/
+        initial_state:
+          length: 56
+          offset: 161
+        initialized_from_dependency: false
+        encrypted_possible_answer: lwNEwpsx4AQ99zSWQdD8fw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+  - name: animals.svg
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Polymorphic+Types+/+Polymorphic+Types
+status: Unchecked
+record: -1

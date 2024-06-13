@@ -1,0 +1,32 @@
+type: edu
+files:
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+  - name: src/SyntacticConveniences.scala
+    visible: true
+    placeholders:
+      - offset: 71
+        length: 34
+        placeholder_text: /*insert the correct prefix here*/
+        initial_state:
+          length: 34
+          offset: 71
+        initialized_from_dependency: false
+        encrypted_possible_answer: rqbhRCXJaYOZ4zV7OHjfrg==
+        selected: false
+        status: Unchecked
+      - offset: 177
+        length: 58
+        placeholder_text: /*introduce the dynamic value here and make it uppercase*/
+        initial_state:
+          length: 58
+          offset: 177
+        initialized_from_dependency: false
+        encrypted_possible_answer: zW8S4e4Qdm7dinxXAkefllszwA1IFRSZGA05ct30+3c=
+        selected: false
+        status: Unchecked
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Syntactic+Conveniences+/+String+Interpolation
+status: Unchecked
+record: -1

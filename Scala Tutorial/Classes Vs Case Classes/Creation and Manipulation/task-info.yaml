@@ -1,0 +1,38 @@
+type: edu
+files:
+  - name: src/ClassesVsCaseClasses.scala
+    visible: true
+    placeholders:
+      - offset: 69
+        length: 38
+        placeholder_text: /*deposit 100 on the Alice's account*/
+        initial_state:
+          length: 38
+          offset: 69
+        initialized_from_dependency: false
+        encrypted_possible_answer: wPikY5TWUNEf3ZcnVqV/BMoA48UGJXy1l9uGVW+xNTU=
+        selected: false
+        status: Unchecked
+      - offset: 119
+        length: 44
+        placeholder_text: /*create a c3 note with a quarter duration*/
+        initial_state:
+          length: 44
+          offset: 119
+        initialized_from_dependency: false
+        encrypted_possible_answer: /xnNPHbaAb2XQF0ajzVJ7lO77nL0NasC5LxXuJC7c9I=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/BankAccount.scala
+    visible: true
+    learner_created: false
+  - name: src/Note.scala
+    visible: true
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Classes+vs+Case+Classes+/+Creation+and+Manipulation
+status: Unchecked
+record: -1

@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: src/LazyEvaluation.scala
+    visible: true
+    placeholders:
+      - offset: 167
+        length: 45
+        placeholder_text: /*call the llRange for the rest of the list*/
+        initial_state:
+          length: 45
+          offset: 167
+        initialized_from_dependency: false
+        encrypted_possible_answer: v6XMZVXsxiJHd8WXYHA9nM+0H2oPHn2G4PmdzQnGaeI=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Lazy+Evaluation+/+Lazy+Lists
+status: Unchecked
+record: -1

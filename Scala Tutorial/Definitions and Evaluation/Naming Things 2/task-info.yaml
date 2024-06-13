@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: src/DefinitionsAndEvaluation.scala
+    visible: true
+    placeholders:
+      - offset: 123
+        length: 31
+        placeholder_text: // reuse the square method here
+        initial_state:
+          length: 31
+          offset: 123
+        initialized_from_dependency: false
+        encrypted_possible_answer: jxZiF8iDFGyR0Sd6zPpfaA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Definitions+and+Evaluation+/+Naming+Things2
+status: Unchecked
+record: -1

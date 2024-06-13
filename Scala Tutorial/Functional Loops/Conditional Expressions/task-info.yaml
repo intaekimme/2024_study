@@ -1,0 +1,32 @@
+type: edu
+files:
+  - name: src/FunctionalLoops.scala
+    visible: true
+    placeholders:
+      - offset: 64
+        length: 65
+        placeholder_text: /*insert the corner case condition for the factorial evaluation*/
+        initial_state:
+          length: 65
+          offset: 64
+        initialized_from_dependency: false
+        encrypted_possible_answer: OfelZ7luo5NmNxmRAIdQug==
+        selected: false
+        status: Unchecked
+      - offset: 142
+        length: 50
+        placeholder_text: //insert the common case factorial expression here
+        initial_state:
+          length: 50
+          offset: 142
+        initialized_from_dependency: false
+        encrypted_possible_answer: 36lgh/giBFZCpXuEfxq1Yrvp4TH2ocdJCojMQ+fkZas=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Functional+Loops+/+Conditional+Expressions
+status: Unchecked
+record: -1

@@ -1,0 +1,33 @@
+type: edu
+files:
+  - name: src/StandardLibrary.scala
+    visible: true
+    placeholders:
+      - offset: 61
+        length: 69
+        placeholder_text: /*insert the correct condition for evaluating if the list is
+          sorted*/
+        initial_state:
+          length: 69
+          offset: 61
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3m16AGEdgytAD65e4yOPgM05OAtxRKHXw8OBmn9Mx30=
+        selected: false
+        status: Unchecked
+      - offset: 221
+        length: 7
+        placeholder_text: // TODO
+        initial_state:
+          length: 7
+          offset: 221
+        initialized_from_dependency: false
+        encrypted_possible_answer: N14iS7q2yQOPUv/9CJs1Dg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Standard+Library+/+List
+status: Unchecked
+record: -1

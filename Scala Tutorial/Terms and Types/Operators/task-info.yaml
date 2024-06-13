@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: src/TermsAndTypes.scala
+    visible: true
+    placeholders:
+      - offset: 73
+        length: 82
+        placeholder_text: "//insert the upper boundary of the range here, it should be\
+      \ of an appropriate type"
+        initial_state:
+          length: 82
+          offset: 73
+        initialized_from_dependency: false
+        encrypted_possible_answer: MLcncFemOCq1pOmRWXqSfg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Terms+and+Types+/+Operators
+status: Unchecked
+record: -1

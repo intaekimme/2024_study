@@ -1,0 +1,36 @@
+type: edu
+files:
+  - name: src/ObjectOrientedProgramming.scala
+    visible: true
+    placeholders:
+      - offset: 330
+        length: 36
+        placeholder_text: /*insert an appropriate expression*/
+        initial_state:
+          length: 36
+          offset: 330
+        initialized_from_dependency: false
+        encrypted_possible_answer: ND0SQ74Rr+qPq0ekriCWpQ==
+        selected: false
+        status: Unchecked
+      - offset: 445
+        length: 36
+        placeholder_text: /*insert an appropriate expression*/
+        initial_state:
+          length: 36
+          offset: 445
+        initialized_from_dependency: false
+        encrypted_possible_answer: TvkAO4Rw2/fCeCvcFkZ1HA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+  - name: scala_type_hierarchy.png
+    visible: false
+    is_binary: true
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=OOP+/+Traits
+status: Unchecked
+record: -1

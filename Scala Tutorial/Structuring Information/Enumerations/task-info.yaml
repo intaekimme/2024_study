@@ -1,0 +1,32 @@
+type: edu
+files:
+  - name: src/StructuringInformation.scala
+    visible: true
+    placeholders:
+      - offset: 295
+        length: 24
+        placeholder_text: //return half of a whole
+        initial_state:
+          length: 24
+          offset: 295
+        initialized_from_dependency: false
+        encrypted_possible_answer: 5mwr/a3X7DxtibtxgAPIEQ==
+        selected: false
+        status: Unchecked
+      - offset: 326
+        length: 60
+        placeholder_text: "/*this should be one of the casesq, for a quarter duration*/"
+        initial_state:
+          length: 60
+          offset: 326
+        initialized_from_dependency: false
+        encrypted_possible_answer: BNk0zQCys89Je9eBAqP6Lw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Structuring+Information+/+Enumerations
+status: Unchecked
+record: -1

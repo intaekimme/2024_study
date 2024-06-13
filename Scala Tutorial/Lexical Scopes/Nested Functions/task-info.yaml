@@ -1,0 +1,32 @@
+type: edu
+files:
+  - name: src/LexicalScopes.scala
+    visible: true
+    placeholders:
+      - offset: 75
+        length: 40
+        placeholder_text: /*declare a name for the function here*/
+        initial_state:
+          length: 40
+          offset: 75
+        initialized_from_dependency: false
+        encrypted_possible_answer: rxvvmJnGmFJs6e9ca6fFaw==
+        selected: false
+        status: Unchecked
+      - offset: 166
+        length: 40
+        placeholder_text: /*use the name you declared previously*/
+        initial_state:
+          length: 40
+          offset: 166
+        initialized_from_dependency: false
+        encrypted_possible_answer: rxvvmJnGmFJs6e9ca6fFaw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Lexical+Scopes+/+Nested+Functions
+status: Unchecked
+record: -1

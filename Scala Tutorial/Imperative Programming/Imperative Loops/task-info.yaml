@@ -1,0 +1,42 @@
+type: edu
+files:
+  - name: src/ImperativeProgramming.scala
+    visible: true
+    placeholders:
+      - offset: 81
+        length: 34
+        placeholder_text: /*insert the initial resul value*/
+        initial_state:
+          length: 34
+          offset: 81
+        initialized_from_dependency: false
+        encrypted_possible_answer: oa+nVSRiKi7L3SNrfCrSCA==
+        selected: false
+        status: Unchecked
+      - offset: 133
+        length: 30
+        placeholder_text: /*insert the initial i value*/
+        initial_state:
+          length: 30
+          offset: 133
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1jv4oI924ZkXwBNnWzUX/A==
+        selected: false
+        status: Unchecked
+      - offset: 225
+        length: 21
+        placeholder_text: /*insert the i step*/
+        initial_state:
+          length: 21
+          offset: 225
+        initialized_from_dependency: false
+        encrypted_possible_answer: oa+nVSRiKi7L3SNrfCrSCA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Imperative+Programming+/+Imperaive+Loops
+status: Unchecked
+record: -1

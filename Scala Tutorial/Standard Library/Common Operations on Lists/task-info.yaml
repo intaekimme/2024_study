@@ -1,0 +1,42 @@
+type: edu
+files:
+  - name: src/StandardLibrary.scala
+    visible: true
+    placeholders:
+      - offset: 79
+        length: 29
+        placeholder_text: /*map the x values to x + 1*/
+        initial_state:
+          length: 29
+          offset: 79
+        initialized_from_dependency: false
+        encrypted_possible_answer: Mxeq2SNoA/9zmmBs8o5vbCNlp7z0czuse8xiDemc0Hc=
+        selected: false
+        status: Unchecked
+      - offset: 170
+        length: 48
+        placeholder_text: /*filter the x values to return only even ones*/
+        initial_state:
+          length: 48
+          offset: 170
+        initialized_from_dependency: false
+        encrypted_possible_answer: C8QaqFV8H5LqpbtCieeVp9j5c/rpMuIepqAZkWs9kCg=
+        selected: false
+        status: Unchecked
+      - offset: 281
+        length: 46
+        placeholder_text: /*use flatMap to return the option for x + 1*/
+        initial_state:
+          length: 46
+          offset: 281
+        initialized_from_dependency: false
+        encrypted_possible_answer: quWfMl/uzxB5/AmirOpjSh5y/ATgNIjfIVgybkkVhGw=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Standard+Library+/+Common+Operations+on+Lists
+status: Unchecked
+record: -1

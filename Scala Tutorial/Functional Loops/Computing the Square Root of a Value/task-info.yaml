@@ -1,0 +1,33 @@
+type: edu
+files:
+  - name: src/ComputingSquareRoot.scala
+    visible: true
+    placeholders:
+      - offset: 155
+        length: 36
+        placeholder_text: //you can just return the guess here
+        initial_state:
+          length: 36
+          offset: 155
+        initialized_from_dependency: false
+        encrypted_possible_answer: X7fb/+LPi72L1UIq3NT1WA==
+        selected: false
+        status: Unchecked
+      - offset: 275
+        length: 67
+        placeholder_text: //here we need to place an expression for evaluating a better
+          guess
+        initial_state:
+          length: 67
+          offset: 275
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7wxd8ht/cPVmTKrbXeMMCCX36RbePg2ty6muHhi2QB0=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Functional+Loops+/+Computing+the+Square+Root+of+a+Value
+status: Unchecked
+record: -1

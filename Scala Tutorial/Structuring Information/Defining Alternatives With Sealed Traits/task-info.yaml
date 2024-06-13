@@ -1,0 +1,42 @@
+type: edu
+files:
+  - name: src/StructuringInformation.scala
+    visible: true
+    placeholders:
+      - offset: 169
+        length: 37
+        placeholder_text: //extend the sealed trait Symbol here
+        initial_state:
+          length: 37
+          offset: 169
+        initialized_from_dependency: false
+        encrypted_possible_answer: ++pv2HZtMqME22NBAVWUEw==
+        selected: false
+        status: Unchecked
+      - offset: 315
+        length: 47
+        placeholder_text: //we need to return a similar to the Rest field
+        initial_state:
+          length: 47
+          offset: 315
+        initialized_from_dependency: false
+        encrypted_possible_answer: vlMuL551nY3uEq5wZk+GxQ==
+        selected: false
+        status: Unchecked
+      - offset: 472
+        length: 40
+        placeholder_text: //return a result of equality check here
+        initial_state:
+          length: 40
+          offset: 472
+        initialized_from_dependency: false
+        encrypted_possible_answer: 06HeS00YzN06pXEY3DrPk5aKHCSWxZ7zdyr0PzgXs1s=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Structuring+Information+/+Defining+Alternatives+With+Sealed+Traits
+status: Unchecked
+record: -1

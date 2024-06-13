@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: src/DefinitionsAndEvaluation.scala
+    visible: true
+    placeholders:
+      - offset: 100
+        length: 46
+        placeholder_text: /*insert an expression using both parameters*/
+        initial_state:
+          length: 46
+          offset: 100
+        initialized_from_dependency: false
+        encrypted_possible_answer: QrDpMSo1rPxuvyONkffeBA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Definitions+and+Evaluation+/+Multiple+Parameters
+status: Unchecked
+record: -1

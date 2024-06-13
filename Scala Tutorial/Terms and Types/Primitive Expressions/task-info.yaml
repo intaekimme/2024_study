@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: src/TermsAndTypes.scala
+    visible: true
+    placeholders:
+      - offset: 69
+        length: 8
+        placeholder_text: //Finish the greetings here
+        initial_state:
+          length: 27
+          offset: 69
+        initialized_from_dependency: false
+        encrypted_possible_answer: shdfxurpUzdNeAjLYu06QA==
+        selected: true
+        status: Solved
+      - offset: 122
+        length: 1
+        placeholder_text: "//Insert a number here, so the sum will be 4"
+        initial_state:
+          length: 44
+          offset: 141
+        initialized_from_dependency: false
+        encrypted_possible_answer: qQkBIfYQhtpNT7QVomJkqA==
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: test/Test.scala
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScjhcYFPpvouPszTzh1ePod4-mJkYZcrA5iiGjH4nybtiNEvQ/viewform?usp=pp_url&entry.2103429047=Terms+and+Types+/+Primitive+Expressions
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 13 Jun 2024 15:26:38 UTC"
+record: -1
